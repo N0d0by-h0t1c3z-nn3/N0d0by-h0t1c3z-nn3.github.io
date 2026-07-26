@@ -18,6 +18,7 @@ body {
   color: #ffffff;
   line-height: 1.8;
   margin: 10px 0;
+  font-size: clamp(16px, 4vw, 22px)
   text-decoration: none;
 }
 
