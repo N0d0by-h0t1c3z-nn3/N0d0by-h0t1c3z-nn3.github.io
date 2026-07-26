@@ -5,6 +5,11 @@ h1 {
   margin: 10px;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 body {
   font-family: "Hiragino Mincho ProN", "Yu Mincho",
                "MS PMincho", "Noto Serif JP", serif;
@@ -23,7 +28,7 @@ body {
 }
 
 .link {
-  text-decoration: none;
+  color: #ff0000;
 }
 
 .link:hover {
