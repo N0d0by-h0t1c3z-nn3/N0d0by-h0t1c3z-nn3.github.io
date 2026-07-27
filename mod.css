@@ -20,6 +20,16 @@ a:active {
   text-decoration: none;
 }
 
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+audio {
+  display: block;
+  margin: 0 auto;
+}
+
 body {
   font-family: "Hiragino Mincho ProN", "Yu Mincho",
                "MS PMincho", "Noto Serif JP", serif;
